@@ -1,4 +1,4 @@
-let Web3 = require("web3");
+const Web3 = require("web3");
 const web = new Web3(new Web3.providers.HttpProvider("HTTP://127.0.0.1:7545"));
 const bal = getUserBalance(web, "0xe667960998EA76b2f11019446571a070aa6d7EFE");
 /**
