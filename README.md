@@ -1,0 +1,1 @@
+This app is used to connect to local ganache, transfer amount from one account to another, connect to smart contracts and use smart contracts methods, properties. all these features are accessible using node command and through browser
